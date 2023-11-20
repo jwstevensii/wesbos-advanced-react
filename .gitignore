@@ -9,3 +9,7 @@ variables.env
 *.env
 .keystone
 *.db
+
+.history/
+**/videos/*
+*.zip
